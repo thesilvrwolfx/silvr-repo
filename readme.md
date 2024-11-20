@@ -1,7 +1,10 @@
 # **Vector Dot Product Implementation**
 
 ## **Introduction**  
-The _dot product_ is a fundamental operation in linear algebra that takes two vectors and returns a scalar value. This operation is widely used in fields such as computer graphics, machine learning, and physics.
+The _dot product_ is a fundamental operation in linear algebra that takes two vectors and returns a scalar value. This operation is widely used in fields such as:
+- Computer graphics
+- Machine learning
+- Physics.
 
 ---
 
@@ -33,8 +36,29 @@ print("Dot product:", result)
 ---
 ## Here is a diagram elaborating the mathematical equation graphically.
 
+![vector dot product](dot_product.png)
 
----
+[^1]: this image has been taken from `cuemath.com`.
+
+
+Here is a list of all what has been included in this readme file:
+- [x] Headings
+- [x] styling
+- [x] text quoting
+- [x] lists
+- [x] checklists
+- [ ] links
+- [x] images
+- [ ] tables
+- [x] footnotes
+- [x] mathematical equations
+- [x] code
+- [ ] alerts
+
+
+> [!CAUTION]
+> Sometimes such critical information may lead to end of the world, so use it responsively.
+
 For more help you can visit [Byju's website](https://byjus.com/)
 
 
