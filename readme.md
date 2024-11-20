@@ -38,7 +38,7 @@ print("Dot product:", result)
 
 ![vector dot product](dot_product.png)
 
-[^1]: this image has been taken from `cuemath.com`.
+[^1]: This image has been taken from `cuemath.com`.
 
 
 Here is a list of all what has been included in this readme file:
@@ -58,6 +58,13 @@ Here is a list of all what has been included in this readme file:
 
 > [!CAUTION]
 > Sometimes such critical information may lead to end of the world, so use it responsively.
+
+
+| version of algorithm       | time complexity          | space complexity  |
+| ------------- |:-------------:| -----:|
+| version 1      | O($n^2$) | O($n^2$) |
+| version 2     | O($n^2$)     |  O(nlogn) |
+| version 3 | O(nlogn)      |    O($n^2$) |
 
 For more help you can visit [Byju's website](https://byjus.com/)
 
