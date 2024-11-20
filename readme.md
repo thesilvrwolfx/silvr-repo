@@ -29,3 +29,12 @@ vec_a = [1, 2, 3]
 vec_b = [4, 5, 6]
 result = dot_product(vec_a, vec_b)
 print("Dot product:", result)
+```
+---
+## Here is a diagram elaborating the mathematical equation graphically.
+
+
+---
+For more help you can visit [Byju's website](https://byjus.com/)
+
+
