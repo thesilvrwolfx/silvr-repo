@@ -3,6 +3,8 @@
 ## **Introduction**  
 The _dot product_ is a fundamental operation in linear algebra that takes two vectors and returns a scalar value. This operation is widely used in fields such as:
 - Computer graphics
+- - 1. mkasd
+- - 2. fkald
 - Machine learning
 - Physics.
 
