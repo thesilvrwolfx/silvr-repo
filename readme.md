@@ -34,11 +34,11 @@ result = dot_product(vec_a, vec_b)
 print("Dot product:", result)
 ```
 ---
-## Here is a diagram elaborating the mathematical equation graphically.
+## Here is a diagram elaborating the mathematical equation graphically.[^1]
 
 ![vector dot product](dot_product.png)
 
-[^1]: This image has been taken from `cuemath.com`.
+[^1]: This image has been taken from cuemath.com.
 
 
 Here is a list of all what has been included in this readme file:
