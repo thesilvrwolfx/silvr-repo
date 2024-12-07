@@ -58,8 +58,8 @@ Here is a list of all what has been included in this readme file:
 - [ ] tables
 - [x] footnotes
 - [x] mathematical equations
-- [x] code
-- [ ] alerts
+- [x] \(optional)code
+- [ ] alerts :tada:
 
 
 > [!CAUTION]
